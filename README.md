@@ -11,7 +11,7 @@ I love making stuff that people benefit from. I recently finished my computer sc
 
 - 📫 Reach me at **ryan.w.groch@gmail.com**
 
-- 📄 See my resume: [ryangroch.github.io/resume](https://ryangroch.github.io/resume)
+- 📄 See my resume: [ryangroch.github.io/resume.pdf](https://ryangroch.github.io/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
